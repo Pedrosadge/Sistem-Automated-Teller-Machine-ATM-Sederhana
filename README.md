@@ -1,0 +1,1 @@
+Proyek ini merupakan simulasi Sistem ATM Sederhana yang memungkinkan pengguna untuk melakukan berbagai operasi perbankan dasar seperti pembuatan akun, login, setor tunai, tarik tunai, dan transfer antar rekening. Sistem ini dirancang menggunakan struktur data dan fungsi yang efisien untuk mengelola data rekening.
